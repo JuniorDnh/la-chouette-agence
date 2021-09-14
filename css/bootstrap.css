@@ -1661,6 +1661,10 @@ mark {
     text-align: center
 }
 
+p.text-center {
+    font-size: 12px;
+}
+
 .text-justify {
     text-align: justify
 }
