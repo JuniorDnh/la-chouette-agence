@@ -144,6 +144,9 @@ body {
     .voffset-lg {
     margin-top : 80px;
     }
+    .col-sm-4 {
+        display: none;
+    }
     .row-no-gutters {
     margin-right : 0;
     margin-left : 0;
