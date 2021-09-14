@@ -557,11 +557,11 @@ body {
     border : none;
     }
     .btn-atomic-tangerine {
-    background : #F3976C;
+    background : linear-gradient(0deg, #c27956 0%, #F3976C 100%);
     color : #FFFFFF !important ;
     }
     .btn-atomic-tangerine:hover {
-    background : #c27956 !important ;
+    background : linear-gradient(0deg, #f3976c 0%, #c27956 100%);
     color : #FFFFFF !important ;
     }
     .btn-atomic-tangerine:hover button {
