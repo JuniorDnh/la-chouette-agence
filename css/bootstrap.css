@@ -1662,7 +1662,7 @@ mark {
 }
 
 p.text-center {
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .text-justify {
@@ -2071,7 +2071,7 @@ pre code {
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;
-    
+   
 }
 
 .col-xs-1,

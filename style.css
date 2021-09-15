@@ -139,14 +139,18 @@ body {
     color : rgb(0, 0, 0, 0.7);
     border-color : rgb(0, 0, 0, 0.3);
     }
+    figure {
+        display: flex;
+        flex-direction: column;
+    }
+    figcaption {
+        margin: auto;
+    }
     .voffset {
     margin-top : 30px;
     }
     .voffset-lg {
     margin-top : 80px;
-    }
-    footer .col-sm-4 {
-        display: none;
     }
     .row-no-gutters {
     margin-right : 0;
@@ -549,12 +553,13 @@ body {
     background-color : #575757;
     }
     .tc-white {
-    color : #F3976C !important ;
+    color : #FFFFFF !important ;
     }
     button {
     background : #F3976C;
     color : #FFFFFF !important ;
     border : none;
+    margin: 0 auto;
     }
     .btn-atomic-tangerine {
     background : linear-gradient(0deg, #c27956 0%, #F3976C 100%);
