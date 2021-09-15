@@ -144,6 +144,7 @@ body {
         flex-direction: column;
     }
     figcaption {
+        color: black;
         margin: auto;
     }
     .voffset {
